@@ -7,5 +7,5 @@ Dashboard interactivo que combina modelos de aprendizaje supervisado y no superv
 
 ### 1. Clonar repositorio
 ```bash
-git clone <[link-de_este_repo](https://github.com/josue-lopez04/ml_proyecto.git)>
+git clone <https://github.com/josue-lopez04/ml_proyecto.git>
 cd ml_proyecto_completo
